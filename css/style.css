@@ -1,0 +1,25 @@
+        .header-text {
+            font-weight: bold;
+            color: #FF6666;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 4em;
+        }
+        
+        .button-color {
+            background-color: #ff6262c4;
+            color: white;
+            font-size: 1.5em;
+            padding: .3em 2.1em;
+            border-radius: 5px;
+        }
+        
+        .saving-input {
+            width: 80px;
+            padding: 5px;
+        }
+        
+        .saving-button {
+            padding: 7px 30px;
+            background-color: #ff6262c4;
+            border-radius: 5px;
+        }
